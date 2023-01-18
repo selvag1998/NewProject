@@ -532,9 +532,9 @@ section {
 }
 
 .about .image {
-  background: url("../img/") center center no-repeat;
+  background: url("../img/Picture1.jpg") center center no-repeat;
   background-size: cover;
-  min-height: 400px;
+  min-height: 600px;
 }
 
 @media (max-width: 991px) {
